@@ -1,0 +1,161 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+    
+  
+  }
+  
+  header {
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align:center;
+  }
+  header h1{
+    font-style: italic;
+    text-align: right;
+    margin-top: -4%;
+  } 
+  header h2{
+  font-style: italic;
+    text-align: left;
+  }
+  header img {
+  width: 400px;
+  margin-top: -5%;
+  }
+  
+  nav {
+    background-color: #333;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+  }
+  
+  nav a {
+    color: #fff;
+    margin-left: 20px;
+    text-decoration: none;
+  }
+  
+  section {
+    margin: 20px;
+  }
+  
+  section ul {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  section li {
+    width: 25%;
+    padding: 20px;
+  }
+  
+  section img {
+    width: 100%;
+  }
+  
+  section p {
+    margin: 10px 0;
+  }
+  
+  section button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
+.pp{
+    width: 500px;
+    margin-right: auto;
+   
+}
+.rr{
+    width: 400px;
+    margin-left: auto;
+    margin-top: -5%;
+    
+}
+.rrr{
+    
+   width: 500px;
+    margin-right: auto;
+}
+.r{
+    width: 400px;
+    margin-left: auto;
+}
+.imgFooter {
+  margin-right: 100%;
+  margin-bottom: -10%;
+  width: 100px;
+  height: 100px;
+  
+}
+
+.footer_section {
+    background-color: #333; 
+    color: #fff; 
+    text-align: center; 
+    padding: 20px; 
+}
+
+.footer_section a {
+    color: rgb(4, 213, 74); 
+    text-decoration: none; 
+}
+
+
+
+
+ header {
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align:center;
+  }
+  header h1{
+    font-style: italic;
+    text-align: right;
+    margin-top: -4%;
+  } 
+  header h2{
+  font-style: italic;
+    text-align: left;
+  }
+  header img {
+  width: 400px;
+  margin-top: -5%;
+  }
+  
+  nav {
+    background-color: #333;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+  }
+  
+  nav a {
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+    text-decoration: none;
+  }
+  
+
+  .cardCocktails{
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .cocktails{
+    background-color:rgba(255, 166, 0, 0.064) ;
+  
+  }
